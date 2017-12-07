@@ -1,0 +1,5 @@
+HELLO-hola
+STUDENT-estudiante
+OK-De acuerdo
+THANK YOU-gracias
+BYE-adios
